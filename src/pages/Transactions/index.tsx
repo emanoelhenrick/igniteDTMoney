@@ -13,7 +13,6 @@ export function Transactions() {
 
         <SearchForm />
 
-
         <TransactionsTable>
           <tbody>
             <tr>
