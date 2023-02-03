@@ -39,6 +39,14 @@
       "type": "income",
       "createdAt": "2023-02-03T23:06:00.433Z",
       "id": 5
+    },
+    {
+      "description": "rerer",
+      "price": 1234,
+      "category": "doidera",
+      "type": "outcome",
+      "createdAt": "2023-02-03T23:13:30.132Z",
+      "id": 6
     }
   ]
 }
