@@ -23,6 +23,22 @@
       "price": 1980,
       "category": "Educação",
       "createdAt": "2023-02-03T12:19:34.735Z"
+    },
+    {
+      "description": "opa",
+      "price": 34,
+      "category": "doidera",
+      "type": "outcome",
+      "createdAt": "2023-02-03T22:52:58.946Z",
+      "id": 4
+    },
+    {
+      "description": "caraio",
+      "price": 45,
+      "category": "doidera",
+      "type": "income",
+      "createdAt": "2023-02-03T23:06:00.433Z",
+      "id": 5
     }
   ]
 }
