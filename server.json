@@ -1,52 +1,5 @@
 {
   "transactions": [
-    {
-      "id": 1,
-      "description": "Desenvolvimento de site",
-      "type": "income",
-      "price": 14000,
-      "category": "Venda",
-      "createdAt": "2023-02-03T12:14:34.735Z"
-    },
-    {
-      "id": 2,
-      "description": "Hamburguer",
-      "type": "outcome",
-      "price": 50,
-      "category": "Alimentação",
-      "createdAt": "2023-02-03T12:16:34.735Z"
-    },
-    {
-      "id": 3,
-      "description": "Ignite Rocketseat",
-      "type": "outcome",
-      "price": 1980,
-      "category": "Educação",
-      "createdAt": "2023-02-03T12:19:34.735Z"
-    },
-    {
-      "description": "opa",
-      "price": 34,
-      "category": "doidera",
-      "type": "outcome",
-      "createdAt": "2023-02-03T22:52:58.946Z",
-      "id": 4
-    },
-    {
-      "description": "caraio",
-      "price": 45,
-      "category": "doidera",
-      "type": "income",
-      "createdAt": "2023-02-03T23:06:00.433Z",
-      "id": 5
-    },
-    {
-      "description": "rerer",
-      "price": 1234,
-      "category": "doidera",
-      "type": "outcome",
-      "createdAt": "2023-02-03T23:13:30.132Z",
-      "id": 6
-    }
+
   ]
 }
