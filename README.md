@@ -1,5 +1,5 @@
 
-# Ignite Timer
+# Ignite DT Money
 
 Execício do Ignite React da Rocketseat, abordando conceitos e bibliotecas como Context API, Styled-Components, React Hook Form, Axios, Radix-UI e criação de hooks para a construção de uma dashboard de gastos.
 
